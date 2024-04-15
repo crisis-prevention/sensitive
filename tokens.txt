@@ -1,6 +1,5 @@
 This File should not include Hardcoded tokens: 
 
-ghp_000000rVvQW0dJUTI42B6IDfR70000000000
 
 If any token is listed here it will be considered a security issue
 
